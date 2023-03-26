@@ -1,0 +1,15 @@
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.exe
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.deps.json
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.runtimeconfig.json
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.dll
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.pdb
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.csproj.AssemblyReference.cache
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.AssemblyInfoInputs.cache
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.AssemblyInfo.cs
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.csproj.CoreCompileInputs.cache
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.dll
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\refint\EvidencePojisteni.dll
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.pdb
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.genruntimeconfig.cache
+C:\Users\MartinR\Dropbox\Csharp\Evidence pojištění\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\ref\EvidencePojisteni.dll
